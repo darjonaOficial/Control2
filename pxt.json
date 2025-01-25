@@ -1,0 +1,8 @@
+{
+  "name": "control2",
+  "version": "0.0.1",
+  "description": "Descripción de mi extensión",
+  "files": [
+    "main.cpp"
+  ]
+}
