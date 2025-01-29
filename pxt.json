@@ -1,8 +1,26 @@
 {
-  "name": "control2",
-  "version": "0.0.1",
-  "description": "Descripción de mi extensión",
-  "files": [
-    "main.cpp"
-  ]
+    "name": "Control2",
+    "version": "0.0.1",
+    "description": "New envent source block",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": false,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj",
+    "disablesVariants": [
+        "mbdal"
+    ],
+    "authors": [
+        "darjonaOficial <darjona@martipous.cat>"
+    ],
+    "card": {
+        "name": "Control2"
+    }
 }
