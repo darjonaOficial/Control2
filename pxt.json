@@ -12,7 +12,11 @@
         "main.ts",
         "shims.d.ts"
     ],
-    "public": false,
+    "public": true,
+    "targetVersions": {
+        "target": "7.0.57",
+        "targetId": "microbit"
+    },
     "supportedTargets": [
         "microbit"
     ],
