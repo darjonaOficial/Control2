@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "control2.cpp",
-        "main.ts"
+        "main.ts",
+        "shims.d.ts"
     ],
     "public": false,
     "supportedTargets": [
