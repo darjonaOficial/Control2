@@ -10,6 +10,7 @@
         "README.md",
         "control2.cpp",
         "main.ts",
+        "main.blocks",
         "shims.d.ts"
     ],
     "public": true,
