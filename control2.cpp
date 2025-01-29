@@ -7,6 +7,7 @@ namespace control {
     //% blockId=control_event_source block="event source"
     //% help=control/event-source
     //% weight=18 shim=control::eventSource
+    //% group="Control2"
     int eventSource() {
         return pxt::lastEvent.source;
     }
