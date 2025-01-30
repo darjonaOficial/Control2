@@ -11,7 +11,8 @@
         "control2.cpp",
         "main.ts",
         "main.blocks",
-        "shims.d.ts"
+        "shims.d.ts",
+        "enum.d.ts"
     ],
     "public": true,
     "targetVersions": {
