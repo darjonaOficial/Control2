@@ -12,7 +12,7 @@
         "main.ts",
         "main.blocks",
         "shims.d.ts",
-        "enum.d.ts"
+        "enums.d.ts"
     ],
     "public": true,
     "targetVersions": {
