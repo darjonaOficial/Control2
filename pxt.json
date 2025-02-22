@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "control2.cpp"
+        "control2.cpp",
+        "main.ts"
     ],
     "public": false,
     "supportedTargets": [
