@@ -8,23 +8,11 @@
     },
     "files": [
         "README.md",
-        "control2.cpp",
-        "main.ts",
-        "main.blocks",
-        "shims.d.ts",
-        "enums.d.ts"
+        "control2.cpp"
     ],
-    "public": true,
-    "targetVersions": {
-        "target": "7.0.57",
-        "targetId": "microbit"
-    },
+    "public": false,
     "supportedTargets": [
         "microbit"
-    ],
-    "preferredEditor": "tsprj",
-    "disablesVariants": [
-        "mbdal"
     ],
     "authors": [
         "darjonaOficial <darjona@martipous.cat>"
